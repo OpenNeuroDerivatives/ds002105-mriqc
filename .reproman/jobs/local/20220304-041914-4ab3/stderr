@@ -1,1 +1,13 @@
-../../../../.git/annex/objects/j3/0w/MD5E-s574--39555ce8b5d35d752aa1f92b751cbde5/MD5E-s574--39555ce8b5d35d752aa1f92b751cbde5
+WARNING (03/05/22 23:15:28): LAUNCHER_WORKDIR variable not set. Using current directory.
+using /tmp/launcher.4120767.hostlist.OtkLc5ZC to get hosts
+starting job on c137-044
+starting job on c137-052
+starting job on c137-062
+starting job on c139-214
+starting job on c143-202
+slurmstepd: error: *** JOB 4120767 ON c137-044 CANCELLED AT 2022-03-06T07:15:39 DUE TO TIME LIMIT ***
+Connection to c137-052 closed by remote host.
+Connection to c137-062 closed by remote host.
+Connection to c143-202 closed by remote host.
+Connection to c139-214 closed by remote host.
+Terminated
